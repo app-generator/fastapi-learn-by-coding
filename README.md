@@ -63,4 +63,4 @@ $ The project is LIVE - https://localhost:8000
 <br />
 
 --- 
-Learn Django by Coding - Provided and actively supported by AppSeed [App Generator](https://appseed.us)
+Learn FastAPI by Coding - Provided and actively supported by AppSeed [App Generator](https://appseed.us)
