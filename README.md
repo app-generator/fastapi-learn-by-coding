@@ -69,5 +69,24 @@ $ The project is LIVE - https://localhost:8000
 
 <br />
 
+## Added Tortoise ORM Sample 
+
+> Original code: [ML & FastAPI - CH06](https://github.com/PacktPublishing/Building-Data-Science-Applications-with-FastAPI/tree/main/chapter6/tortoise)
+
+<br />
+
+**How to use it**
+
+```bash
+uvicorn app_tortoise:app --reload
+```
+
+Access the app in the browser and query the API 
+
+- `http://localhost:8000/docs` - Interactive UI  
+- `http://localhost:8000/posts` - List all posts 
+
+<br />
+
 --- 
 Learn FastAPI by Coding - Provided and actively supported by AppSeed [App Generator](https://appseed.us)
