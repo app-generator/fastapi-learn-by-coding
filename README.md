@@ -2,7 +2,10 @@
 
 Open-source project provided by AppSeed to help beginners accommodate faster with FastAPI. For newcomers, FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. 
 
-> **For support and more [Free Samples](https://appseed.us/admin-dashboards/open-source) join [AppSeed](https://appseed.us).**
+> Links
+
+- 👉 [Getting Started with FastAPI](https://docs.appseed.us/technologies/fastapi/getting-started) - A comprehensive introduction to FastAPI
+- 👉 Free [Support](https://appseed.us/support) via `email` and [Discord](https://discord.gg/fZC6hup).
 
 <br />
 
