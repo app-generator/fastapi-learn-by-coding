@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.0.2] 2021-06-24
+## [0.0.2] 2021-01-20
 ### Added Tortoise ORM 
 
 - New Deps
