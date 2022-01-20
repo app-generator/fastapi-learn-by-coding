@@ -65,5 +65,9 @@ $ The project is LIVE - https://localhost:8000
 
 <br />
 
+![FastAPI - Browser Interactive Console.](https://user-images.githubusercontent.com/51070104/150373332-967dff20-52a9-4df9-adcf-15dd947bd8eb.jpg)
+
+<br />
+
 --- 
 Learn FastAPI by Coding - Provided and actively supported by AppSeed [App Generator](https://appseed.us)
